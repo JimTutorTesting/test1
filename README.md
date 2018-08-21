@@ -1,1 +1,3 @@
-# test1
+# GitHub Tutoring
+
+Demonstrating how to use GitHub
