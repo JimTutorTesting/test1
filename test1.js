@@ -1,1 +1,2 @@
-var thisIsNew = "new file";
+var thisIsSortaNew = "new file";
+var anotherVar = 22;
